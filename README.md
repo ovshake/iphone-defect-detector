@@ -52,7 +52,7 @@ Some sample detections are shown below:
 
 Since the samples are unlabelled, I am going to use the precision of my algorithm to understand the performance of the algorithm. If we have a labelled dataset, we can use the F1 score, which is the harmonic mean of precision and recall.
 
-On multiple runnings of the algorithm, the precision was found to be 30%, which means that the algorithm is able to detect all the defects in the images. The precision was found to be 30% for a patch threshold of 30 and similarity threshold of 0.17. If we tune these parameters, we can get a better precision.
+On multiple runnings of the algorithm, the precision was found to be 30% for a patch threshold of 30 and similarity threshold of 0.17. If we tune these parameters, we can get a better precision.
 
 ## Dependencies
 
